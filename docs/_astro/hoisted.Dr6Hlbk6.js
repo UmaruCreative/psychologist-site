@@ -1,0 +1,1 @@
+import"./hoisted.WN_cpf3c.js";window.addEventListener("scroll",()=>{if(window.matchMedia("(prefers-reduced-motion: no-preference)").matches){const r=window.pageYOffset,e=document.querySelector(".parallax-bg");if(e){const t=r*.5;e.style.transform=`translateY(${t}px)`}}});
